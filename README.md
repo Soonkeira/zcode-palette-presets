@@ -1,6 +1,8 @@
 # zcode-palette-presets
 
-ZCode 主色 × 底色调色盘的**静态预设主题市场**：48 个主题包（6 主色 × 8 底色，每个含浅色/深色两组 token，合计 96 组明暗配色），全部通过 WCAG AA 校验。色值与 [Soonkeira/ZCodeSoon](https://github.com/Soonkeira/ZCodeSoon) fork 内置调色盘同源。
+ZCode 主色 × 底色调色盘的**静态预设主题市场**
+
+> ⚠️ **本市场仅在含主题插件功能的构建中生效（如 [ZCodeSoon](https://github.com/Soonkeira/ZCodeSoon)）。官方原版 ZCode 没有「主题包」入口——市场和插件能装上，但外观页不会显示任何主题。**：48 个主题包（6 主色 × 8 底色，每个含浅色/深色两组 token，合计 96 组明暗配色），全部通过 WCAG AA 校验。色值与 [Soonkeira/ZCodeSoon](https://github.com/Soonkeira/ZCodeSoon) fork 内置调色盘同源。
 
 ## 安装（粘贴地址即可）
 
