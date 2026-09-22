@@ -4,7 +4,9 @@ ZCode 主色 × 底色调色盘的**静态预设主题市场**：48 个主题包
 
 ## 安装（粘贴地址即可）
 
-ZCode / ZCodeSoon 中打开 **设置 → 插件 → 添加插件市场**，粘贴：
+在 **ZCodeSoon fork 构建**（或任何包含主题插件功能的构建）中打开 **设置 → 插件 → 添加插件市场**，粘贴：
+
+> ⚠️ 官方原版 ZCode **没有主题插件功能**（无「主题包」入口）：市场和插件能装上，但外观页看不到主题。请使用 [ZCodeSoon](https://github.com/Soonkeira/ZCodeSoon) 构建。
 
 ```
 https://github.com/Soonkeira/zcode-palette-presets
